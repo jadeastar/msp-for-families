@@ -40,10 +40,10 @@
 ### [Minnesota Children's Museum](https://mcm.org/)
 - Wallace & Gromit and Shaun the Sheep: Shear Genius! (Opens May 28)
 - Shipwreck Adventures - An underwater adventure in Lake Superior!
-- Our World | Best Buy Gallery - Explore the jobs that make the world turn! From Postal Services to Farming.
-- The Studio | Target Gallery - Create and play with new materials!
-- Forces at Play | 3M Gallery - Play with engineering and simple machines!
-- Creativity Jam | Target Gallery -  Play is for all! A teaching exhibit about the benefits of play for everyone!
+- Our World - Explore the jobs that make the world turn! From Postal Services to Farming.
+- The Studio - Create and play with new materials!
+- Forces at Play - Play with engineering and simple machines!
+- Creativity Jam -  Play is for all! A teaching exhibit about the benefits of play for everyone!
 - Imaginopolis - A space based exhibit for imaginative kids!
 - Sprouts - A water-based exhibit for younger kids.
 - Backyard - Check on the plants and explore the sculptures!
